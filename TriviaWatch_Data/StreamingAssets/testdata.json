@@ -1,0 +1,194 @@
+{
+   "Items":[
+      {
+         "question":"Which one is a defence hero?",
+         "answers":[
+            "Symmetra",
+            "Phara",
+            "Roadhog",
+            "Hanzo"
+         ],
+         "correctAnswer":3
+      },
+      {
+         "question":"Which hero becomes involnerable using their ult?",
+         "answers":[
+            "Zenyatta",
+            "Moira",
+            "Mercy",
+            "Hanzo"
+         ],
+         "correctAnswer":0
+      },
+      {
+         "question":"Which hero likes to 'Break it down'",
+         "answers":[
+            "Lucio",
+            "Soldier 76",
+            "Ana",
+            "Winston"
+         ],
+         "correctAnswer":0
+      },
+      {
+         "question":"Which hero does not have an ability that makes them immune to damage",
+         "answers":[
+            "Mei",
+            "Reaper",
+            "Orisa",
+            "Moira"
+         ],
+         "correctAnswer":2
+      },
+      {
+         "question":"Who is Gabriel Reyes?",
+         "answers":[
+            "Genji",
+            "Reaper",
+            "Doomfist",
+            "Soldier 76"
+         ],
+         "correctAnswer":1
+      },
+      {
+         "question":"What county is Torbjorn originally from?",
+         "answers":[
+            "Finland",
+            "Germany",
+            "Norway",
+            "Sweden"
+         ],
+         "correctAnswer":3
+      },
+      {
+         "question":"Which hero only has a hammer?",
+         "answers":[
+            "Torbjorn",
+            "Reinhardt",
+            "Widowmaker",
+            "Brigitte"
+         ],
+         "correctAnswer":1
+      },
+      {
+         "question":"Which hero is the oldest?",
+         "answers":[
+            "Torbjorn",
+            "Soldier 76",
+            "Reinhardt",
+            "Ana"
+         ],
+         "correctAnswer":2
+      },
+      {
+         "question":"What is the name of Symmetra's primary weapon?",
+         "answers":[
+            "Photon Projector",
+            "Photon Blaster",
+            "Energy Blaster",
+            "Beam Projector"
+         ],
+         "correctAnswer":0
+      },
+      {
+         "question":"Who is Jack Morrison?",
+         "answers":[
+            "Genji",
+            "Soldier 76",
+            "Roadhog",
+            "Reaper"
+         ],
+         "correctAnswer":1
+      },
+      {
+         "question":"What is the name of Bastion's bird?",
+         "answers":[
+            "Aristole",
+            "Galileo",
+            "Ganymede",
+            "Apollo"
+         ],
+         "correctAnswer":2
+      },
+      {
+         "question":"Which map is a two point capture?",
+         "answers":[
+            "King's Row",
+            "Numbani",
+            "Anubus",
+            "Route 66"
+         ],
+         "correctAnswer":2
+      },
+      {
+         "question":"Which hero was the first to be added to the game after release?",
+         "answers":[
+            "Ana",
+            "Orisa",
+            "Sombra",
+            "Moira"
+         ],
+         "correctAnswer":0
+      },
+      {
+         "question":"Which hero can provide armour for their team?",
+         "answers":[
+            "Torbjorn",
+            "Symmetra",
+            "Orisa",
+            "Reinhardt"
+         ],
+         "correctAnswer":0
+      },
+      {
+         "question":"Which hero is a parent to another hero in the game?",
+         "answers":[
+            "Torbjorn",
+            "Reaper",
+            "Orisa",
+            "Moira"
+         ],
+         "correctAnswer":0
+      },
+      {
+         "question":"Which hero can stun an enemy?",
+         "answers":[
+            "Lucio",
+            "Mcree",
+            "Widowmaker",
+            "Roadhog"
+         ],
+         "correctAnswer":1
+      },
+      {
+         "question":"Which hero does not have an ability that allows the to reposition an enemy?",
+         "answers":[
+            "Widowmaker",
+            "Lucio",
+            "Orisa",
+            "Roadhog"
+         ],
+         "correctAnswer":0
+      },
+      {
+         "question":"Which hero has a grappling hook?",
+         "answers":[
+            "Widowmaker",
+            "Reaper",
+            "Ana",
+            "Reinhardt"
+         ],
+         "correctAnswer":0
+      },
+      {
+         "question":"How much ammo does a scoped shot from Widowmaker use?",
+         "answers":[
+            "1",
+            "3",
+            "5",
+            "2"
+         ],
+         "correctAnswer":1
+      }
+   ]
+}
